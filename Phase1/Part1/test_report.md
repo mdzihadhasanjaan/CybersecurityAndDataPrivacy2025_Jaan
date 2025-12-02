@@ -1,6 +1,6 @@
 # Booking System – Phase 1 Penetration Test Report
 
-**Tester:** Jaan  
+**Tester:** Jaan & Rashedul
 **Date:** 28 November 2025  
 **Target application:** http://localhost:8000  
 **Test scope:** Registration page (only)  
