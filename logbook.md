@@ -14,4 +14,13 @@
 | 02.12.2025 | 2          | OWASP ZAP Round 2 Scan        | Participated in second automated OWASP ZAP scan and reviewed remaining security findings |
 | 02.12.2025 | 2          | Discussion & Reporting        | Helped structure findings and fixes discussion with verification steps and evidence |
 | 02.12.2025 | 1          | Documentation Update          | Contributed to updating test_report.md and individual logbook for Part 2 |
+| 01.12.2025 | 1          | Phase 1 / Part 2 Deployment      | Assisted in deploying the updated Booking System using Docker              |
+| 01.12.2025 | 1          | Deployment Verification          | Verified service status and accessed the new version on localhost           |
+| 01.12.2025 | 1          | Fix Verification – SQL Injection | Retested SQL injection vulnerability and confirmed it was fixed            |
+| 01.12.2025 | 1          | Fix Verification – Validation    | Verified required field validation, duplicate email handling, and UI feedback |
+| 02.12.2025 | 1          | OWASP ZAP Round 2 Scan            | Participated in second automated OWASP ZAP scan                             |
+| 02.12.2025 | 1          | ZAP Result Analysis               | Reviewed remaining issues such as missing CSRF protection and CSP gaps      |
+| 02.12.2025 | 1          | Discussion Post Support           | Helped structure discussion on findings, fixes, and verification steps      |
+| 02.12.2025 | 1          | Documentation Update              | Contributed to updating test_report.md for Phase 1 / Part 2                 |
+| 02.12.2025 | 1          | Logbook Update                    | Updated individual logbook to reflect Phase 1 / Part 2 work                 |
 
